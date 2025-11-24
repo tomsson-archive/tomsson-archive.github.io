@@ -1,0 +1,10 @@
+baseURL = 'https://tomsson-archive.se/'
+languageCode = 'en-us'
+title = 'Tomsson Archive'
+theme = 'hugo-book'
+
+[params]
+  BookSearch = false
+  BookSection = 'issues'
+  BookFavicon = 'favicon.ico'
+  BookTheme = 'dark'
