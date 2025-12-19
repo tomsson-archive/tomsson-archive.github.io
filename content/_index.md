@@ -14,3 +14,9 @@ The archive is maintained by the [Stockholm Leather History](https://www.instagr
 Do you possess as-of-yet un-digitized issues of Tomsson or other materials that might interest the Stockholm Leather History project? Please reach out to us! We are especially interested in missing issues of Tomsson and copies of Mister SM and Toy by Revolt Förlag.
 
 <stockholm.leather.history@gmail.com>
+
+Missing issues
+===
+
+While we lack a complete index of published issues and thus don't know of all issues that we lack, here's a list of those that we've confirmed missing. We especially request donations of these issues.
+
