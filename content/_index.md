@@ -18,6 +18,6 @@ Do you possess as-of-yet un-digitized issues of Tomsson or other materials that 
 Missing issues
 ===
 
-While we lack a complete index of published issues and thus don't know of all issues that we lack, here's a list of those that we've confirmed missing. We especially request donations of these issues.
+While we lack a complete index of Tomsson publications and thus don't know of all missing issues, here's a list of those that we've confirmed missing so far. We especially request donations of these issues.
 
 * 1995/1
