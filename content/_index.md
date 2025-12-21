@@ -21,3 +21,4 @@ Missing issues
 While we lack a complete index of Tomsson publications and thus don't know of all missing issues, here's a list of those that we've confirmed missing so far. We especially request donations of these issues.
 
 * 1995/1
+* 2000/1
